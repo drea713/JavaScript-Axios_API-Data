@@ -1,0 +1,246 @@
+[
+    {
+        "firstName": "Derek",
+        "lastName": "Hawkins",
+        "occupation": "Software Engineer",
+        "skills": [
+            {
+                "name": "Python",
+                "level": 10
+            },
+            {
+                "name": "JavaScript",
+                "level": 9
+            },
+            {
+                "name": "PHP",
+                "level": 6
+            },
+            {
+                "name": "Wordpress",
+                "level": 4
+            },
+            {
+                "name": "Django",
+                "level": 8
+            },
+            {
+                "name": "Flask",
+                "level": 15
+            },
+            {
+                "name": "Java",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "firstName": "Lucas",
+        "lastName": "Lang",
+        "occupation": "Software Engineer",
+        "skills": [
+            {
+                "name": "Python",
+                "level": 9
+            },
+            {
+                "name": "JavaScript",
+                "level": 10
+            },
+            {
+                "name": "Fortran",
+                "level": 90
+            }
+        ]
+    },
+    {
+        "firstName": "Joel",
+        "lastName": "Carter",
+        "occupation": "Software Engineer",
+        "skills": [
+            {
+                "name": "Python",
+                "level": 10
+            },
+            {
+                "name": "JavaScript",
+                "level": 9
+            },
+            {
+                "name": "C",
+                "level": 80
+            }
+        ]
+    },
+    {
+        "firstName": "Caleb",
+        "lastName": "Hubbs",
+        "occupation": "Software Engineer",
+        "skills": [
+            {
+                "name": "Python",
+                "level": 6
+            },
+            {
+                "name": "JavaScript",
+                "level": 9
+            },
+            {
+                "name": "Flask",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "firstName": "Vittorio",
+        "lastName": "Vittorio",
+        "occupation": "Software Engineer",
+        "skills": [
+            {
+                "name": "Python",
+                "level": 5
+            },
+            {
+                "name": "JavaScript",
+                "level": 5
+            },
+            {
+                "name": "SQL",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "firstName": "Kevin",
+        "lastName": "Nguyen",
+        "occupation": "Software Engineer",
+        "skills": [
+            {
+                "name": "Python",
+                "level": 12
+            },
+            {
+                "name": "Java",
+                "level": 23
+            },
+            {
+                "name": "JavaScript",
+                "level": 34
+            }
+        ]
+    },
+    {
+        "firstName": "Aldrick",
+        "lastName": "Wright",
+        "occupation": "Software Developer",
+        "skills": [
+            {
+                "name": "Python",
+                "level": 1
+            },
+            {
+                "name": "Java",
+                "level": 1
+            },
+            {
+                "name": "JavaScript",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "firstName": "Andrea",
+        "lastName": "Pirela",
+        "occupation": "Database Analyst",
+        "skills": [
+            {
+                "name": "Python",
+                "level": 7
+            },
+            {
+                "name": "SQL",
+                "level": 10
+            },
+            {
+                "name": "JavaScript",
+                "level": 6
+            }
+        ]
+    },
+    {
+        "firstName": "Natalia",
+        "lastName": "Eaton",
+        "occupation": "NOT a Software Engineer",
+        "skills": [
+            {
+                "name": "Python",
+                "level": 1
+            },
+            {
+                "name": "PHP",
+                "level": 0
+            },
+            {
+                "name": "JavaScript",
+                "level": 0.3
+            }
+        ]
+    },
+    {
+        "firstName": "Daniel",
+        "lastName": "Stewart",
+        "occupation": "Software Developer",
+        "skills": [
+            {
+                "name": "Python",
+                "level": 1
+            },
+            {
+                "name": "Java",
+                "level": 1
+            },
+            {
+                "name": "JavaScript",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "firstName": "Tammie",
+        "lastName": "Hall",
+        "occupation": "Database Analyst",
+        "skills": [
+            {
+                "name": "SQL",
+                "level": 4
+            },
+            {
+                "name": "Autocad Electrical",
+                "level": 10
+            },
+            {
+                "name": "JavaScript",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "firstName": "Brittany",
+        "lastName": "Jones",
+        "occupation": "Database Analyst",
+        "skills": [
+            {
+                "name": "Python",
+                "level": 8
+            },
+            {
+                "name": "SQL",
+                "level": 7
+            },
+            {
+                "name": "JavaScript",
+                "level": 3
+            }
+        ]
+    }
+]
